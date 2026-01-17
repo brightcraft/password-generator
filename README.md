@@ -46,7 +46,7 @@ Before starting, ensure the following is installed on your system:
 
 1. Clone or download the repository to your local machine:
    ```
-   git clone https://github.com/ndriqimlahu/password-generator.git
+   git clone https://github.com/brightcraft/password-generator.git
    ```
 2. Open the repository folder in your preferred IDE or code editor.
 3. Install the dependencies and node modules used in this application by running the following command in your terminal:
@@ -64,7 +64,7 @@ Before starting, ensure the following is installed on your system:
 Below you can see some additional useful screenshots of what the web application looks like and how it can be used:
 
 - Home page — Generate password
-<img src="https://raw.githubusercontent.com/ndriqimlahu/password-generator/master/preview/01.1-Home%20page%20(Responsive%20for%20Desktop).png" align="top" width="96%" height="auto">
+<img src="https://raw.githubusercontent.com/brightcraft/password-generator/master/preview/01.1-Home%20page%20(Responsive%20for%20Desktop).png" align="top" width="96%" height="auto">
 
 ## Support
 
